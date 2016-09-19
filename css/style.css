@@ -568,7 +568,6 @@ article .entry code {
   padding: 0 5px;
   margin: 0 2px;
   font-size: 0.9em;
-  -webkit-border-radius: 3px;
   border-radius: 3px;
 }
 article .entry pre {
@@ -577,7 +576,6 @@ article .entry pre {
   margin-top: 15px;
   overflow: auto;
   padding: 7px 15px;
-  -webkit-border-radius: 2px;
   border-radius: 2px;
 }
 article .entry pre code {
@@ -586,7 +584,6 @@ article .entry pre code {
   color: #666;
   margin: 0;
   border: none;
-  -webkit-border-radius: 0;
   border-radius: 0;
 }
 article .entry ul,
@@ -832,7 +829,6 @@ a
   -webkit-box-shadow: 1px 2px 3px #ddd;
   box-shadow: 1px 2px 3px #ddd;
   border: 1px solid #ddd;
-  -webkit-border-radius: 3px;
   border-radius: 3px;
   text-align: center;
   color: color-grey;
@@ -1010,7 +1006,6 @@ a
   -webkit-background-size: 11em 11em;
   -moz-background-size: 11em 11em;
   background-size: 11em 11em;
-  -webkit-border-radius: 5.5em;
   border-radius: 5.5em;
   -webkit-transition: -webkit-transform 2s ease-out;
   -moz-transition: -moz-transform 2s ease-out;
@@ -1039,7 +1034,6 @@ a
     -webkit-background-size: 9.166666666666666em 9.166666666666666em;
     -moz-background-size: 9.166666666666666em 9.166666666666666em;
     background-size: 9.166666666666666em 9.166666666666666em;
-    -webkit-border-radius: 4.583333333333333em;
     border-radius: 4.583333333333333em;
     margin: 0 auto;
   }
@@ -1162,7 +1156,6 @@ a
   -webkit-background-size: 6.875em 6.875em;
   -moz-background-size: 6.875em 6.875em;
   background-size: 6.875em 6.875em;
-  -webkit-border-radius: 3.4375em;
   border-radius: 3.4375em;
   -webkit-transition: -webkit-transform 2s ease-out;
   -moz-transition: -moz-transform 2s ease-out;
@@ -1285,7 +1278,6 @@ a
   border: 1px solid #ddd;
   margin-top: 15px;
   padding: 7px 15px;
-  -webkit-border-radius: 2px;
   border-radius: 2px;
   text-shadow: 0 0 1px #fff;
   line-height: 1.6;
@@ -1325,7 +1317,6 @@ figure.highlight {
   border: 1px solid #ddd;
   margin-top: 15px;
   padding: 7px 15px;
-  -webkit-border-radius: 2px;
   border-radius: 2px;
   text-shadow: 0 0 1px #fff;
   line-height: 1.6;
